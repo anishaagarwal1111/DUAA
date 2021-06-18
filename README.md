@@ -47,10 +47,15 @@ We have developed a portal on which people can register the place where they are
 ![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/RoadMap.jpeg)
 
 
-#**Architecture**
+# **Architecture**
 ![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/Architecture.jpeg)
 
-
+* We collect the information of people migrating to different cities and states through our Registration portal.
+* The portal application will manage user data and API for user management and resource allocation.
+* That information will get added to the IBM cloud object storage server and get stored in the database.
+* The IBM WATSON services do the necessary computations and return a response.
+* The response is received by the digital co-operative management system app UI.
+* The co-op admin can view the response via the digital co-operative management system app UI.
 
 
 
