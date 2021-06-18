@@ -49,7 +49,7 @@ We have developed a portal on which people can register the place where they are
 # **Video**
 (https://youtu.be/VicHu-gewdI)
 
-#**Architecture**
+# **Architecture**
 ![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/Architecture.jpeg)
 1. We collect the information of people migrating to different cities and states through our Registration portal.
 2. The portal application will manage user data and API for user management and resource allocation.
