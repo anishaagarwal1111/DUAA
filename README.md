@@ -7,6 +7,27 @@ Thus, the sustainable development of cities with affordable and safe housing has
 Submission or project name: 
 Team DUAA 
 
+Contents
+Short description
+What's the problem?
+How can technology help?
+The idea
+Demo video
+The architecture
+Long description
+Project roadmap
+Getting started
+Live demo
+Built with
+
+
+
+
+
+
+
+
+
 
 # **Short description**
   Sustainable development of cities with affordable and safe housing for everyone, even the new migrants.
@@ -42,7 +63,7 @@ We have developed a portal on which people can register the place where they are
 
 # **Project roadmap**
 
-
+![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/RoadMap.jpeg)
 
 
 #**Architecture**
