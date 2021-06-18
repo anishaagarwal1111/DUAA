@@ -75,7 +75,7 @@ We have developed a portal on which people can register the place where they are
 
 
 #**Built with**
-IBM WATSON
-IBM db2
-IBM API Gateway
-IBM Cloud
+* IBM WATSON
+* IBM db2
+* IBM API Gateway
+* IBM Cloud
