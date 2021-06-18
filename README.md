@@ -67,6 +67,7 @@ We have developed a portal on which people can register the place where they are
 
 
 #**Architecture**
+![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/Architecture.jpeg)
 
 
 
