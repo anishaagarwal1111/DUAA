@@ -1,4 +1,5 @@
 # Team DUAA
+![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/Team_duaa.jpeg)
 
 # Problem
 With 1/3rd of the population going to becoming urban by 2050 has popped up significant challenges for many countries, especially India. The majority of rural people have also started to relocate themselves to cities seeking jobs and new livelihood. These have made cities prone to natural calamities and disaster, making people homeless on a massive scale. 
