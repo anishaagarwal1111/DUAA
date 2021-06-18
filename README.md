@@ -47,7 +47,7 @@ We have developed a portal on which people can register the place where they are
 ![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/RoadMap.jpeg)
 
 # **Video**
-[](https://youtu.be/VicHu-gewdI)
+![video_link](https://youtu.be/VicHu-gewdI)
 
 #**Architecture**
 ![image_info](https://github.com/anishaagarwal1111/DUAA/blob/master/Architecture.jpeg)
